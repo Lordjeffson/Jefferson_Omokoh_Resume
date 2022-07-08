@@ -16,69 +16,68 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`2019-2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
-
+- Academic scholarship with 3.9 GPA
 
 ## Related Experience
 
 ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`May 2021 - August 2021`
+`CX Product Manager` __Cisco Systems Inc__, San Jose , CA
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Owned multiple cross-functional meetings to understand the technicality behind Zero Trust Architecture, and to understand the requirements that help customers be Zero Trust compliant
+- Collaborated with cross-functional teams to create a user story that maps the company’s products to the capabilities of Zero Trust – as part of the go-to-market strategy for the enablement team
 
-### Data Science Lead
+`April 2020 - August 2020`
+`Project Manager` __The Church of Jesus Christ of Latter-day Saints__, Riverton , UT
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Help stakeholders’ decisions by presenting reliably analyzed data through Microsoft Excel, and SharePoint Custom list
+- Assist project stakeholders to identify and solve business problems by drawing up project plans using Microsoft tools
+- Facilitate several meetings with software developers to ensure that new products meet customer needs.
 
 
-## Service and Work History
+## Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`August 2021 - Present`
+`IT Assistant Product Manager` __Brigham Young University – ID__, Rexburg, ID
+
+- Prepared market and product requirement documents
+- Monitor and review performance indicators of existing products with Backlog Manager on Teamdynamix
+
+`September 2020 - April 2021`
+`IT Assistant Product Manager` __Brigham Young University – ID__, Rexburg, ID
+
+- Develop a deep understanding of the business objectives of internal and external stakeholders; evangelize the product vision and build trust by maintaining an accurate and achievable roadmap 
+- Monitor and review performance indicators of existing products with Backlog Manager on Teamdynamix
+
+`September 2019 - April 2020`
+`Economics Student Tutor` __Brigham Young University – ID__, Rexburg, ID
+
+- Tutor 150+ students in introductory to Macroeconomics and Microeconomics; helping over 80% of the students improve their study patterns and get better grades
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+## Volunteer Experience
+
+`May 2019 - July 2019`
+`Heber J. Grant Mentor` __Brigham Young University – ID__, Rexburg, ID
+
+- Mentored 4 freshmen from traditional and non-traditional background
+- Trained students in developing various skills, set and achieve goals to help them succeed in college
+
+`September 2014 - September 2016`
+`Full-time Volunteer Representative` __The Church of Jesus Christ of Latter-day Saints__,Ghana
+
+- Teaching, proselyting, and doing humanitarian work
+- Managed and coordinated individual efforts of volunteers to ensure increased productivity
+
+
+
+## Interests
+
+- Soccer in all its forms, cooking, technology
 
 
 
