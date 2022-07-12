@@ -18,7 +18,7 @@ title: Jefferson Omokoh's Resume
 `2019-2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- Academic scholarship with 3.9 GPA
+- Academic scholarship with 3.8 GPA
 
 ## Related Experience
 
